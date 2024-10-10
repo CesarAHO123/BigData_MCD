@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+mortgage_data.csv
 # C extensions
 *.so
 
